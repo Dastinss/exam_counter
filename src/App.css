@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  background: gray;
+}
+
+.allText {
+  border: aqua;
+  border-radius: 10px;
+}
+
+.ins {
+  background: blue;
+}
+
+.reset {
+  background: gray;
+}
